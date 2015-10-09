@@ -1,6 +1,5 @@
 name: Talespin
 favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.49491
 title: The makings of a new language...
 cta:
@@ -28,5 +27,5 @@ color:
   rhythmicContrast: 0.75
 purpose:
   - name: follow
-    item: 59316351-8781-45e9-8dbe-e9158d583e14
+    item: 2c44a4e4-d8eb-400b-ba58-fb24d41c4aa5
     url: null
