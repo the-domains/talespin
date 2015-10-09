@@ -1,6 +1,7 @@
 name: Talespin
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.51527
+typography_spectrum: 0.49491
 cta:
   domain: null
   bucket: null
