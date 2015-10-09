@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The makings of a new language...]]></title>
-        <description><![CDATA[The makings of a new language...]]></description>
+        <title><![CDATA[VR - The makings of a new language...]]></title>
+        <description><![CDATA[VR - The makings of a new language...]]></description>
         <link>https://thegrid.ai/talespin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 17:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 18:40:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/talespin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I recently invested in over 150 startups]]></title>
+            <description><![CDATA[<article><h1>I recently invested in over 150 startups</h1><p>Here's what I've learned so far creating a Startup Index Fund using AngelList Over the last 18 months, I've invested in over 150 startup companies. I've put money to work in areas such as online video, virtual reality, genome engineering, home automation, electric bicycles, bitcoin, insect protein, a new airline and of course a ton of apps.</p><img src="https://cdn-images-1.medium.com/max/800/1*nzcBro3BlMAfK7uwjWFQ6w.jpeg"></article>]]></description>
+            <link>https://medium.com/@adammosam/i-recently-invested-in-over-150-startups-ad796b79502d</link>
+            <guid isPermaLink="false">6b5b3b1f-9927-415b-9dc9-14b873a283b6</guid>
+            <pubDate>Fri, 09 Oct 2015 18:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sony Acquires SoftKinetic]]></title>
+            <description><![CDATA[<article><h1>Sony Acquires SoftKinetic</h1><img src="https://recodetech.files.wordpress.com/2015/10/20151008-softkinetic.png"></article>]]></description>
+            <link>https://thegrid.ai/talespin/d3b6e537-8f14-4987-9631-67639767d31e/index.html</link>
+            <guid isPermaLink="false">d3b6e537-8f14-4987-9631-67639767d31e</guid>
+            <pubDate>Fri, 09 Oct 2015 17:36:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We are the collision of tech and storytelling...]]></title>
             <description><![CDATA[<article><h1>We are the collision of tech and storytelling...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a08a681-604d-4206-b095-0e9b04f14900.jpg"></article>]]></description>
