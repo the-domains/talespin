@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The makings of a new language...]]></title>
+        <description><![CDATA[The makings of a new language...]]></description>
+        <link>https://thegrid.ai/talespin/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 09 Oct 2015 00:29:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/talespin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://1wusz1l7dx227nr7mlgvjn14.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/6323054995_a34257c672_z1.jpg">]]></description>
+            <link>https://thegrid.ai/talespin/c68e3eaf-873c-444e-945c-e771a0b8b20b/index.html</link>
+            <guid isPermaLink="false">c68e3eaf-873c-444e-945c-e771a0b8b20b</guid>
+            <pubDate>Fri, 09 Oct 2015 00:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/talespin/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">ee6e004d-4048-4b21-85e5-a9c352a2ab29</guid>
+            <pubDate>Fri, 09 Oct 2015 00:19:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
