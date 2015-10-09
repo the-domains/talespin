@@ -23,8 +23,8 @@ color:
     - '#aa7c66'
   brandStrength: 1
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     item: 2c44a4e4-d8eb-400b-ba58-fb24d41c4aa5
