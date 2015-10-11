@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-10-10T22:35:00.896Z'
+datePublished: '2015-10-11T21:44:23.627Z'
 publisher:
   domain: ''
   name: ''
 title: Why NOW for VR?
-dateModified: '2015-10-10T22:34:29.419Z'
+dateModified: '2015-10-10T22:35:00.896Z'
 sourcePath: _posts/2015-10-10-why-now-for-vr.md
 published: true
 inFeed: true
