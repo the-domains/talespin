@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[VR - The makings of a new language...]]></title>
         <description><![CDATA[VR - The makings of a new language...]]></description>
         <link>https://thegrid.ai/talespin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 21:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 18:48:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/talespin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.roadtovr.com/wp-content/uploads/2015/05/the-void-1021x580.jpg">]]></description>
+            <link>https://thegrid.ai/talespin/2ba880b3-ee03-49f6-8892-578466962d9e/index.html</link>
+            <guid isPermaLink="false">2ba880b3-ee03-49f6-8892-578466962d9e</guid>
+            <pubDate>Thu, 15 Oct 2015 18:47:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why NOW for VR?]]></title>
             <description><![CDATA[<article><h1>Why NOW for VR?</h1><p>"Do it right the first time," is one of those maxims that almost everyone agrees with in theory. It saves time, improves results, and keeps us from having to go back and redo work we've already done. Unfortunately, the pace of technological change makes it difficult in practice.</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Keyboard-Dvorak-norwegian.JPG"></article>]]></description>
