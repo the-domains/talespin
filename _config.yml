@@ -1,8 +1,8 @@
+name: Talespin
+favicon: null
+layout_spectrum: 0.5225564
+typography_spectrum: 0.39482
 title: VR - The makings of a new language...
-purpose:
-  - name: follow
-    url: null
-    item: 2c44a4e4-d8eb-400b-ba58-fb24d41c4aa5
 collections:
   - index:
       path: /
@@ -15,30 +15,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2701396
-  lightness: 0.3410312
-  brandStrength: 0.8888292
   brandColors:
     - '#161616'
     - '#4A70B5'
     - '#E0EAF1'
     - '#2F4C88'
     - '#283042'
+  brandStrength: 0.8888292
+  lightness: 0.3410312
+  saturation: 0.2701396
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Talespin
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.5225564
+purpose:
+  - name: follow
+    url: null
+    item: 2c44a4e4-d8eb-400b-ba58-fb24d41c4aa5
