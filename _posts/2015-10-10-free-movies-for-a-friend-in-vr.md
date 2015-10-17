@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:244e694f-56e6-49b2-afff-559795ac167c'
 author: []
-datePublished: '2015-10-10T22:33:14.781Z'
+datePublished: '2015-10-17T02:02:56.672Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Free movies for a friend in VR
-dateModified: '2015-10-10T22:32:41.877Z'
+dateModified: '2015-10-17T02:02:35.375Z'
 sourcePath: _posts/2015-10-10-free-movies-for-a-friend-in-vr.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: free-movies-for-a-friend-in-vr/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
