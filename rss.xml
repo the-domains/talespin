@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VR - The makings of a new language...]]></title>
+        <description><![CDATA[VR - The makings of a new language...]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 18:25:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The new Talespin Logo]]></title>
+            <description><![CDATA[<article><h1>The new Talespin Logo</h1><p>The new Talespin Logo is here.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0899304-8248-4b13-8be6-f66a859594aa.png"></article>]]></description>
+            <link>undefinede8d7b8ed-0b33-4dcf-9f72-7efe63f250b5/index.html</link>
+            <guid isPermaLink="false">e8d7b8ed-0b33-4dcf-9f72-7efe63f250b5</guid>
+            <pubDate>Mon, 30 Nov 2015 18:25:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
