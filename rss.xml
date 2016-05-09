@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A new journey begins...]]></title>
+        <description><![CDATA[A new journey begins...]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 21:48:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Samsung Bedtime VR Stories]]></title>
+            <description><![CDATA[<article><h1>Samsung Bedtime VR Stories</h1><p>To find out more, please visit http://samsung.com/uk/bedtimevrstories To experience the VR for yourself, visit https://youtu.be/XRbAvieBXfc Every parent knows that a bedtime story is a special moment in a child's day. But what if parents can't always be there to read to their children?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f37824a-7d26-49a3-9cef-6276ca9fe447.jpg"></article>]]></description>
+            <link>https://youtube.com/watch?v=dKjwazpmS-w</link>
+            <guid isPermaLink="false">5b7e5da0-2448-4dcf-997f-eeeaa2655728</guid>
+            <pubDate>Mon, 09 May 2016 21:48:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
