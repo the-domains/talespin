@@ -1,8 +1,35 @@
-name: Talespin
-favicon: null
-layout_spectrum: 0.2894737
 typography_spectrum: 0.7760472
-title: A new journey begins...
+color:
+  brandColors:
+    - '#161515'
+    - '#ABB3B5'
+    - '#FFFFFF'
+    - '#C63532'
+    - '#767730'
+  brandStrength: 0.5665951
+  lightness: 0.9049408
+  saturation: 0.1348013
+  rhythmicContrast: 0.7814179
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2894737
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Kyle Jackson
+  email: k.jackson@talespin.company
+  url: www.talespin.company
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d86750-677c-4e24-89b6-83b1fc3db04d.png'
+name: Talespin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,29 +42,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#161515'
-    - '#ABB3B5'
-    - '#FFFFFF'
-    - '#C63532'
-    - '#767730'
-  brandStrength: 0.5665951
-  lightness: 0.9049408
-  saturation: 0.1348013
-  rhythmicContrast: 0.7814179
+title: Evolution of content.
 purpose:
   - name: follow
     url: null
