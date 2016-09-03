@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-05-09T21:48:51.804Z'
-isBasedOnUrl: 'https://t.co/OAprTDXH7E'
+datePublished: '2016-08-31T15:02:24.081Z'
 keywords:
   - ghostbusters
   - void
@@ -17,7 +16,7 @@ author:
   - name: Ben Popper
     url: 'http://www.theverge.com/users/Ben%20Popper'
     avatar: {}
-dateModified: '2016-05-09T21:48:36.996Z'
+dateModified: '2016-08-31T15:02:23.562Z'
 title: Virtual reality theme park The Void opening its first outpost in Times Square
 app_links: []
 publisher:
@@ -25,13 +24,19 @@ publisher:
   name: The Verge
   favicon: 'https://cdn0.vox-cdn.com/images/verge/favicon.v86bfa84.ico'
   domain: t.co
-description: 'The most talked about experience in technology over the last six months has be The Void, an immersive virtual reality theme park based in Utah that transports users to another world they can see, feel, and interact with. It uses a VR headset powered by a supercomputer backpack to allow for untethered walking.'
+description: >-
+  The most talked about experience in technology over the last six months has be
+  The Void, an immersive virtual reality theme park based in Utah that
+  transports users to another world they can see, feel, and interact with. It
+  uses a VR headset powered by a supercomputer backpack to allow for untethered
+  walking.
 inLanguage: en
+sourcePath: >-
+  _posts/2016-05-09-virtual-reality-theme-park-the-void-opening-its-first-outpos.md
+hasPage: true
+via: {}
 starred: true
-sourcePath: _posts/2016-05-09-virtual-reality-theme-park-the-void-opening-its-first-outpos.md
-inFeed: true
-hasPage: false
-inNav: false
+url: virtual-reality-theme-park-the-void-opening-its-first-outpos/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
