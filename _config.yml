@@ -37,6 +37,9 @@ navigation:
   - name: AI
     id: 856ce623-ec3c-452f-9cf0-bb4e7015d146
     type: content
+  - name: Virtual Reality
+    id: 5052a6ac-d6f0-44bb-b6e9-54d68d7f62e9
+    type: content
 favicon: null
 collections:
   - index:
