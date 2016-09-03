@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-05-09T21:56:55.072Z'
-isBasedOnUrl: 'http://www.wired.com/2016/04/magic-leap-vr/'
+datePublished: '2016-08-31T15:01:50.524Z'
 keywords:
   - virtual
   - magic
@@ -14,21 +13,27 @@ keywords:
   - mixed-reality
 related: []
 author: []
-dateModified: '2016-05-09T21:56:04.484Z'
-title: "The Untold Story of Magic Leap, the World's Most Secretive Startup"
+dateModified: '2016-08-31T15:01:49.419Z'
+title: 'The Untold Story of Magic Leap, the World''s Most Secretive Startup'
 app_links: []
 publisher:
   url: 'http://www.wired.com'
   name: WIRED
   favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
   domain: www.wired.com
-description: 'T There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot drone from an alien planet hovers chest-high in front of a row of potted plants.'
+description: >-
+  T There is something special happening in a generic office park in an
+  uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray
+  cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot
+  drone from an alien planet hovers chest-high in front of a row of potted
+  plants.
 inLanguage: en
+sourcePath: >-
+  _posts/2016-05-09-the-untold-story-of-magic-leap-the-worlds-most-secretive-s.md
+hasPage: true
+via: {}
 starred: false
-sourcePath: _posts/2016-05-09-the-untold-story-of-magic-leap-the-worlds-most-secretive-s.md
-inFeed: true
-hasPage: false
-inNav: false
+url: the-untold-story-of-magic-leap-the-worlds-most-secretive-s/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
