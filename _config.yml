@@ -34,6 +34,9 @@ navigation:
   - name: Magic Leap
     id: b102d16a-1bed-4529-b8c6-2af214571afe
     type: content
+  - name: AI
+    id: 856ce623-ec3c-452f-9cf0-bb4e7015d146
+    type: content
 favicon: null
 collections:
   - index:
