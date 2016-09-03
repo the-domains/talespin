@@ -23,12 +23,17 @@ author:
   name: Kyle Jackson
   email: k.jackson@talespin.company
   url: www.talespin.company
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d86750-677c-4e24-89b6-83b1fc3db04d.png'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d86750-677c-4e24-89b6-83b1fc3db04d.png
 name: Talespin
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Magic Leap
+    id: b102d16a-1bed-4529-b8c6-2af214571afe
+    type: content
 favicon: null
 collections:
   - index:
@@ -43,7 +48,4 @@ collections:
       format: rss
       number: 10
 title: Evolution of content.
-purpose:
-  - name: follow
-    url: null
-    item: 2c44a4e4-d8eb-400b-ba58-fb24d41c4aa5
+purpose: []
